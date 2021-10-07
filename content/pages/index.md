@@ -39,7 +39,7 @@ sections:
       caption: Image caption
   - elementId: ''
     colors: colors-a
-    width: wide
+    width: full
     height: tall
     topGap: medium
     bottomGap: medium
